@@ -1,0 +1,13 @@
+package com.itutry.configdatasource;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ConfigDatasourceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
