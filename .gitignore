@@ -1,2 +1,7 @@
 .idea/
+target/
+out/
+build/
+.mvn/
 *.iml
+.DS_Store
