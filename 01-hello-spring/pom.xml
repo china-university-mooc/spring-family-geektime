@@ -11,7 +11,7 @@
 	<groupId>com.itutry</groupId>
 	<artifactId>01-hello-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hello-spring</name>
+	<name>01-hello-spring</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
